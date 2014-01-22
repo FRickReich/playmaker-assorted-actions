@@ -1,3 +1,5 @@
+// Copyright (c) 2014 F. Rick Reich.
+
 using UnityEngine;
 using System.Collections;
 
